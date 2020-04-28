@@ -1,2 +1,2 @@
 # human-vs-bacteria-genome
-Practical bioinformatics example comparing human and bacteria (E. coli) genome sequence.
+Practical bioinformatics application comparing human and bacteria (E. coli) genome sequence.
